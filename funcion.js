@@ -16,7 +16,6 @@ cliente('Juan')
 
 function actividad(nombre, actividad){
     console.log(`La persona ${nombre}, esta realizando la actividad ${actividad}`)
-
-
 }
+
 actividad('Juan','Aprendiendo JavaScript')
